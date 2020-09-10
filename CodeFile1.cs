@@ -6,7 +6,7 @@ namespace fu
     {
         static void Main()
         {
-            Console.WriteLine("con cho nay");
+            Console.WriteLine("con cho nay, cmmr");
         }
     }
 }
